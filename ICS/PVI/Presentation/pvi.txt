@@ -1,0 +1,15 @@
+handshake - usualy 4 messages between router and the client
+
+wireless attack:
+most common attacks on a router are unauthorized access, session hijacking, rerouting
+
+
+router exploitation:
+several modules- exploits(identify vulnerabilities), creds(test credentials against network services), scanners(check if the target is vulnerable to any exploits)
+Belkin Router was vulnerable to Linksys router E-series "The Moon worm"
+
+Phishing attack
+
+
+
+
